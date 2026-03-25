@@ -1,0 +1,15 @@
+
+{
+  "application_id": "APP1001",
+  "customer_name": "John Smith",
+  "ssn_last4": "1234",
+  "annual_income": 42000,
+  "loan_amount_requested": 30000,
+  "employment_status": "Contract",
+  "credit_score": 598,
+  "documents_submitted": [
+    "loan_application_form",
+    "drivers_license",
+    "pay_stub"
+  ]
+}
