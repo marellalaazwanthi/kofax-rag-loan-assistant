@@ -136,9 +136,6 @@ After starting the service, open:
 
 - http://127.0.0.1:8000/docs
 
-## Sample interview explanation
-
-> I built a Kofax plus RAG demo project for banking loan-processing scenarios. Kofax-style extracted JSON is ingested into PostgreSQL, policy documents are retrieved from the knowledge layer, and a RAG service combines the application context with policy rules to generate business explanations like rejection reasons, missing documents, and manual-review decisions. The system is modular, so a real Kofax feed, DB2 API, or vector database can be plugged in later.
 
 ## Future enhancements
 
