@@ -1,0 +1,16 @@
+
+{
+  "application_id": "APP1002",
+  "customer_name": "Mary Johnson",
+  "ssn_last4": "5678",
+  "annual_income": 90000,
+  "loan_amount_requested": 20000,
+  "employment_status": "Full-Time",
+  "credit_score": 705,
+  "documents_submitted": [
+    "loan_application_form",
+    "drivers_license",
+    "income_proof",
+    "bank_statement"
+  ]
+}
